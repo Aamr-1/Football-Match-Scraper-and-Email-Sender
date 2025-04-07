@@ -76,4 +76,7 @@ pip install -r requirements.txt.
 
 If you're using Gmail, ensure you have enabled "Less secure apps" (or generated an app-specific password if 2FA is enabled).
 
+### important note:
+To ensure the script sends emails every day, you need to upload it to the cloud. Otherwise, it will only work when your computer is turned on.
+
 
